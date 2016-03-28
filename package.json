@@ -1,0 +1,19 @@
+{
+  "name": "jjvein-object-keys",
+  "version": "1.0.0",
+  "description": "object keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jjvein/jjvein-object-keys.git"
+  },
+  "author": "jjvein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjvein/jjvein-object-keys/issues"
+  },
+  "homepage": "https://github.com/jjvein/jjvein-object-keys#readme"
+}
