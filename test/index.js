@@ -14,7 +14,7 @@ describe('test', function(){
     it('throw' , ()=>{
         var obj2 = undefined
         assert.throws(
-            objectKeys(obj2),
+            objectKeys.bind(null, obj2),
             Error
         )
     })
