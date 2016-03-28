@@ -15,7 +15,7 @@ describe('test', function(){
         var obj2 = undefined
         assert.throws(
             objectKeys.bind(null, obj2),
-            Error
+            TypeError
         )
     })
 
